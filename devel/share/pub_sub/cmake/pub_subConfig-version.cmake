@@ -1,0 +1,1 @@
+/home/iamak/Desktop/ros_task1-ws/devel/.private/pub_sub/share/pub_sub/cmake/pub_subConfig-version.cmake

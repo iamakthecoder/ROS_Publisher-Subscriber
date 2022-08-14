@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/iamak/Desktop/ros_task1-ws/devel/.private/pub_sub/setup.sh
